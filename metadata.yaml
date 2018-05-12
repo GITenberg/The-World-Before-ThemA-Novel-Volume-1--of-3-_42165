@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2656
     wikipedia: http://en.wikipedia.org/wiki/Susanna_Moodie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42165#The-World-Before-ThemA-Novel-Volume-1--of-3-
 gutenberg_issued: '2013-02-22'
 gutenberg_type: Text
 identifiers:
